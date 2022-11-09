@@ -1,0 +1,6 @@
+# Temp folder
+concepts/
+
+# Workspace files
+.vscode/
+*.code-workspace
